@@ -1,5 +1,5 @@
 # python-homework
-This is my submission for my Module 2 Assignment, pibank.
+This is my submission for my Module 2 Assignment, PyBank.
 
 
 The following lines of code were created with input from TA Mehdi Lebdi during the August 31st office hours:
